@@ -12,7 +12,6 @@ When it comes to coding, having the right tools is paramount. Let's take a tour 
 
 ## Asus Vivobook K3402ZA
 - **OS:** Ubuntu 24.04 LTS Noble Numbat
-- **Kernel:** 6.8.0-32-generic
 - **Processor:** 12th Gen Intel i5-12500H
 - **Memory:** 24GB
 - **Kernel:** 6.11.0-19-generic
